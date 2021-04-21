@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chidera Idabor
 
 - I am a student studying Software Engineering at Gannon University in Erie Pennsylvania. I am passionate about creating new technology to elevate people and the community.
-- I enjoy working with Software Architectural patterns, Java, Swift, Dart(currently leaarning), C#, API's and Database Management Systems.
+- I enjoy working with Software Architectural patterns, Java, Swift, Selenium, JUnit, Dart(currently leaarning), C#, API's and Database Management Systems.
 - 🌱 I’m currently working on a Travel application with my team, designed for users to find events around them and people who may want to attend that event.
 - 📫 How to reach me: chideraidabor@yahoo.com
 
